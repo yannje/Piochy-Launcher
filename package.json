@@ -2,7 +2,7 @@
     "name": "Piochy-Launcher",
     "preductname": "Piochy Launcher",
     "version": "1.0.0",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "description": "Launcher Mincraft pour le serveur Piochy",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, Yannje, Inc.",
